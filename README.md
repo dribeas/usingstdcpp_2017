@@ -1,2 +1,3 @@
-# usingstdcpp_2017
-Slides de las presentaciones en usingstdcpp 2017
+# using std cpp 2017
+
+Repositorio para colgar contenidos relativos a las presentaciones en *using std cpp 2017*.
