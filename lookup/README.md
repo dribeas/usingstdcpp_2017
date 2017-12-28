@@ -13,8 +13,8 @@ Por necesidad la charla evita algunas construciones del lenguaje para centrarse
 en aquellas funcionalidades más habituales.  Aquí puedes encontrar la versión
 *extendida* de la charla, a la que he añadido notas y una transparencia sobre
 las declaraciones *friend*, gracias a Richard Corden por insistir en añadir
-esta contrucción que pude incluir en la charla.  Al fin y al cabo sobraron
-casi 30 segundos!
+esta contrucción, que bien pude incluir en la charla...  al fin y al cabo 
+sobraron casi 30 segundos!
 
 Si tienes alguna duda sobre resolución de nombres, mándame un correo. Es un
 tema que me apasiona.
